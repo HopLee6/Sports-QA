@@ -18,7 +18,7 @@ Reasoning over sports videos for question answering is an important task with nu
 
 ## Dataset Statistics
 
-The numbers of QA pairs for different types and different sports.
+**The numbers of QA pairs for different types and different sports.**
 
 |                | Descriptive  | Temporal  | Causal | Counterfactual | Total  |
 |----------------|--------:|--------:|--------:|----------:|--------:|
@@ -35,7 +35,7 @@ The numbers of QA pairs for different types and different sports.
 
 ## Examples
 
-Examples from Sports-QA
+**Examples from Sports-QA.**
 
 ![Examples from Sports-QA](pics/sportsqa_eg.png)
 
@@ -43,7 +43,7 @@ Examples from Sports-QA
 
 ## Benchmark
 
-Benchmark on Sports-QA
+**Benchmark on Sports-QA**
 
 ![Benchmark on Sports-QA](pics/results.png)
 
