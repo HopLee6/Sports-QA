@@ -1,9 +1,9 @@
 # Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports
 
-[Haopeng Li](https://hoplee6.github.io/)$^1$, [Andong Deng](https://dengandong.github.io/)$^2$, Qiuhong Ke*$^3$, Jun Liu*$^4$, Hossein Rahmani$^5$, Yulan Guo$^6$, Bernt Schiele$^7$, Chen Chen$^2$
+[Haopeng Li](https://hoplee6.github.io/)<sup>1</sup>, [Andong Deng](https://dengandong.github.io/)<sup>2</sup>, Qiuhong Ke*<sup>3</sup>, Jun Liu*<sup>4</sup>, Hossein Rahmani<sup>5</sup>, Yulan Guo<sup>6</sup>, Bernt Schiele<sup>7</sup>, Chen Chen<sup>2</sup>
 
-$^1$ University of Melbourne, $^2$ University of Central Florida, $^3$ Monash University,
-$^4$ Singapore University of Technology and Design, $^5$ Lancaster University, $^6$ Sun Yat-sen University, $^7$ University of Central Florida
+<sup>1</sup>University of Melbourne, <sup>2</sup>University of Central Florida, <sup>3</sup>Monash University,
+<sup>4</sup>Singapore University of Technology and Design, <sup>5</sup>Lancaster University, <sup>6</sup>Sun Yat-sen University, <sup>7</sup>Max Planck Institute for Informatics
 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2401.01505-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.01505)
