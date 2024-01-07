@@ -6,12 +6,13 @@
 <sup>4</sup>Singapore University of Technology and Design, <sup>5</sup>Lancaster University, <sup>6</sup>Sun Yat-sen University, <sup>7</sup>Max Planck Institute for Informatics*
 
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2401.01505-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.01505)
+[![arXiv](https://img.shields.io/badge/Arxiv-2401.01505-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.01505)   ![Supplementary Material](https://img.shields.io/badge/Supplementary%20Material-blue)
+
 
 
 ## Introduction
 
-Reasoning over sports videos for question answering is an important task with numerous applications, such as player training and information retrieval. However, this task has not been explored due to the lack of relevant datasets and the challenging nature it presents. Most datasets for video question answering (VideoQA) focus mainly on general and coarse-grained understanding of daily-life videos, which is not applicable to sports scenarios requiring professional action understanding and fine-grained motion analysis. In this paper, we introduce the first dataset, named Sports-QA, specifically designed for the sports VideoQA task. The Sports-QA dataset includes various types of questions, such as descriptions, chronologies, causalities, and counterfactual conditions, covering multiple sports.
+Reasoning over sports videos for question answering is an important task with numerous applications, such as player training and information retrieval. However, this task has not been explored due to the lack of relevant datasets and the challenging nature it presents. Most datasets for video question answering (VideoQA) focus mainly on general and coarse-grained understanding of daily-life videos, which is not applicable to sports scenarios requiring **professional action understanding and fine-grained motion analysis**. In this paper, we introduce the first dataset, named **Sports-QA**, specifically designed for the sports VideoQA task. The Sports-QA dataset includes various types of questions, such as **descriptions, chronologies, causalities, and counterfactual conditions**, covering **multiple sports**.
 
 ## Dataset Statistics
 
@@ -50,13 +51,7 @@ Benchmark on Sports-QA
 
 *Coming soon!*
 
-## Acknowledgement
 
-This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
-
-- [MultiSports](https://deeperaction.github.io/datasets/multisports.html): A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions
-- [FineGym](https://sdolivia.github.io/FineGym/): A Hierarchical Video Dataset for Fine-grained Action Understanding
-- [IGV](https://github.com/yl3800/IGV): Invariant Grounding for Video Question Answering
 
 
 ## Citation
@@ -71,3 +66,17 @@ If you find our work useful in your research, please consider giving a star and 
   year={2024}
 }
 ```
+
+
+## Acknowledgement
+
+This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
+
+- [MultiSports](https://deeperaction.github.io/datasets/multisports.html): A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions
+- [FineGym](https://sdolivia.github.io/FineGym/): A Hierarchical Video Dataset for Fine-grained Action Understanding
+- [IGV](https://github.com/yl3800/IGV): Invariant Grounding for Video Question Answering
+
+
+## Contact
+
+For further questions, please contact Haopeng Li (haopeng.li@student.unimelb.edu.au).
