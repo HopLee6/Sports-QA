@@ -6,7 +6,9 @@
 <sup>4</sup>Singapore University of Technology and Design, <sup>5</sup>Lancaster University, <sup>6</sup>Sun Yat-sen University, <sup>7</sup>Max Planck Institute for Informatics*
 
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2401.01505-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.01505)   ![Supplementary Material](https://img.shields.io/badge/Supplementary%20Material-blue)
+[![arXiv](https://img.shields.io/badge/Arxiv-2401.01505-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.01505)   [![Supplementary Material](https://img.shields.io/badge/Supplementary%20Material-blue)](https://unimelbcloud-my.sharepoint.com/:b:/g/personal/haopengl1_student_unimelb_edu_au/ET7YjGlNeBtJps4QHVaOMHMByAe1bU4-k19Jt6Fzl-UPgA?e=RwCY1P)
+
+
 
 
 
