@@ -51,10 +51,7 @@ Reasoning over sports videos for question answering is an important task with nu
 
 ## Download
 
-*Coming soon!*
-
-
-
+The Sports-QA dataset and usage instruction are available [here](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/haopengl1_student_unimelb_edu_au/El1sdDJzQnVBiq77unovcmwBO4y4UnlwRbvb2xCXmdLFwg?e=7lLVv7). 
 
 ## Citation
 
