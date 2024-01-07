@@ -1,6 +1,6 @@
 # Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports
 
-[Haopeng Li](https://hoplee6.github.io/)<sup>1</sup>, [Andong Deng](https://dengandong.github.io/)<sup>2</sup>, [Qiuhong Ke](https://research.monash.edu/en/persons/qiuhong-ke)\*<sup>3</sup>, [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ)*<sup>4</sup>, [Hossein Rahmani](https://sites.google.com/view/rahmaniatlu)<sup>5</sup>, [Yulan Guo](http://www.yulanguo.cn/)<sup>6</sup>, [Bernt Schiele](http://www.mpi-inf.mpg.de/~schiele)<sup>7</sup>, [Chen Chen](https://www.crcv.ucf.edu/chenchen/){:target="_blank"}<sup>2</sup>
+[Haopeng Li](https://hoplee6.github.io/)<sup>1</sup>, [Andong Deng](https://dengandong.github.io/)<sup>2</sup>, [Qiuhong Ke](https://research.monash.edu/en/persons/qiuhong-ke)\*<sup>3</sup>, [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ)*<sup>4</sup>, [Hossein Rahmani](https://sites.google.com/view/rahmaniatlu)<sup>5</sup>, [Yulan Guo](http://www.yulanguo.cn/)<sup>6</sup>, [Bernt Schiele](http://www.mpi-inf.mpg.de/~schiele)<sup>7</sup>, [Chen Chen](https://www.crcv.ucf.edu/chenchen/)<sup>2</sup>
 
 *<sup>1</sup>University of Melbourne, <sup>2</sup>University of Central Florida, <sup>3</sup>Monash University,
 <sup>4</sup>Singapore University of Technology and Design, <sup>5</sup>Lancaster University, <sup>6</sup>Sun Yat-sen University, <sup>7</sup>Max Planck Institute for Informatics*
@@ -32,15 +32,19 @@ The numbers of QA pairs for different types and different sports.
 
 ## Examples
 
+Examples from Sports-QA
+
 ![Examples from Sports-QA](pics/sportsqa_eg.png)
 
-<center><b>Examples from Sports-QA</b></center>
+
 
 ## Benchmark
 
-![Benchmark on Sports-QA](pics/image.png)
+Benchmark on Sports-QA
 
-<center><b>Benchmark on Sports-QA</b></center>
+![Benchmark on Sports-QA](pics/results.png)
+
+
 
 ## Download
 
