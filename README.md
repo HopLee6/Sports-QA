@@ -1,6 +1,10 @@
 # Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports
 
-Haopeng Li, Andong Deng, Qiuhong Ke*, Jun Liu*, Hossein Rahmani, Yulan Guo, Bernt Schiele, Chen Chen
+[Haopeng Li](https://hoplee6.github.io/)$^1$, [Andong Deng](https://dengandong.github.io/)$^2$, Qiuhong Ke*$^3$, Jun Liu*$^4$, Hossein Rahmani$^5$, Yulan Guo$^6$, Bernt Schiele$^7$, Chen Chen$^2$
+
+$^1$ University of Melbourne, $^2$ University of Central Florida, $^3$ Monash University,
+$^4$ Singapore University of Technology and Design, $^5$ Lancaster University, $^6$ Sun Yat-sen University, $^7$ University of Central Florida
+
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2401.01505-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.01505)
 
@@ -30,23 +34,21 @@ The numbers of QA pairs for different types and different sports.
 
 ![Examples from Sports-QA](pics/sportsqa_eg.png)
 
-<div align="center">
-  Examples from Sports-QA
-</div>
+<center><b>Examples from Sports-QA</b></center>
 
 ## Benchmark
 
 ![Benchmark on Sports-QA](pics/image.png)
 
-<div align="center">
-  Benchmark on Sports-QA
-</div>
+<center><b>Benchmark on Sports-QA</b></center>
 
 ## Download
 
 *Coming soon!*
 
 ## Citation
+
+If you find our work useful in your research, please consider giving a star and citation.
 
 ```
 @article{li2024sports,
