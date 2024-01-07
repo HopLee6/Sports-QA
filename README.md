@@ -2,7 +2,8 @@
 
 Haopeng Li, Andong Deng, Qiuhong Ke*, Jun Liu*, Hossein Rahmani, Yulan Guo, Bernt Schiele, Chen Chen
 
-[Paper](https://arxiv.org/submit/5332853)
+[![arXiv](https://img.shields.io/badge/Arxiv-2401.01505-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.01505)
+
 
 ## Introduction
 
@@ -27,10 +28,18 @@ The numbers of QA pairs for different types and different sports.
 
 ## Examples
 
-![Examples from SportsQA](pics/sportsqa_eg.png)
+![Examples from Sports-QA](pics/sportsqa_eg.png)
 
 <div align="center">
-  Examples from SportsQA
+  Examples from Sports-QA
+</div>
+
+## Benchmark
+
+![Benchmark on Sports-QA](pics/image.png)
+
+<div align="center">
+  Benchmark on Sports-QA
 </div>
 
 ## Download
