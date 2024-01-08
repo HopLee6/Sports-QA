@@ -32,6 +32,11 @@ Reasoning over sports videos for question answering is an important task with nu
 | Vault          | 2,661  | 0      | 0      | 0        | 2,661  |
 | Total          | 48,268 | 39,643 | 4,676  | 1,486    | 94,073 |
 
+**The distributions of answer classes broken down by question types.**
+
+![Examples from Sports-QA](pics/dist.png)
+
+
 
 ## Examples
 
