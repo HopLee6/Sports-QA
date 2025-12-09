@@ -57,7 +57,7 @@ Reasoning over sports videos for question answering is an important task with nu
 ## Dataset Access
 
 - Videos: [HuggingFace](https://huggingface.co/datasets/HopLeeTop/Sports-QA)
-- QA pairs (`meta_data.zip`) and extracted features (`*.h5`): [figshare](https://figshare.com/articles/dataset/Sports-QA_Dataset/29992531)
+- QA pairs (`meta-data.zip`) and extracted features (`*.h5`): [figshare](https://figshare.com/articles/dataset/Sports-QA_Dataset/29992531)
 
 ## Citation
 
