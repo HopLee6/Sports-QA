@@ -56,7 +56,8 @@ Reasoning over sports videos for question answering is an important task with nu
 
 ## Dataset Access
 
-Please send an email to [hoplee95@outlook.com](mailto:hoplee95@outlook.com) with your **OneDrive email address** to request access.
+- Videos: [HuggingFace](https://huggingface.co/datasets/HopLeeTop/Sports-QA)
+- QA pairs (`meta_data.zip`) and extracted features (`*.h5`): [figshare](https://figshare.com/articles/dataset/Sports-QA_Dataset/29992531)
 
 ## Citation
 
